@@ -1,5 +1,4 @@
 ﻿CustomerID,FirstName,LastName,Address,City,ZIP,StoreNumber,CustomerSegment,Visits,Spend
-2,MELISSA,RUFF,2753 S Milwaukee St,DENVER,80210,100,Consumer,1,228.27
 3,CONSTANTI,VLASSIS,16911 E Harvard Ave,AURORA,80013,104,Small Business,1,432.44
 4,AMY,LOCKEMER,3721 S Pitkin Ct,AURORA,80013,104,Home Office,4,2101.11
 5,DANELL,VALDEZ,2925 W College Ave,DENVER,80219,101,Home Office,1,1404.09
